@@ -64,3 +64,5 @@ The interface for inferenecing is done through inference.py.
 
     python inference.py --checkpoint_path </path/to/wav2lip.pth> --face </path/to/video.mp4> --audio </path/to/an-audio-source> 
 
+    Data source folder: https://github.com/davidkundrats/lipsync-research/tree/develop
+
